@@ -1,0 +1,19 @@
+.box{
+    border: none;
+    background-color: lightgrey;
+    width: 20%;
+    height:fit-content;
+    object-fit: contain;
+    margin: 20px;
+    
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.pic__image{
+    width: 200px;
+    height:fit-content;
+    object-fit: contain;
+}
